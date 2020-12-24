@@ -101,9 +101,12 @@ ul{
 }
 .mob_menu_items .mob_menu_item .menu_item_title p{
     font-weight: 700;
+    font-size: 25px;
 }
 
-
+.mob_menu_items .mob_menu_item .menu_item_title i{
+    padding-top: 7px;
+}
 
 
 .mob_menu_items .mob_menu_item .item_toggle_menu{
@@ -122,6 +125,7 @@ ul{
 
 .mob_menu_items .mob_menu_item .item_toggle_menu ul li a{
     color: #000;
+    font-size: 20px;
 
 }
 
