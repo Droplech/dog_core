@@ -1146,6 +1146,11 @@ ul{
     .error_contant .left_block {
         padding-top: 60px;
     }
+    .right_content {
+        
+        height: 616px;
+       
+    }
 }
 @media screen and (max-width:1280px){
     .main .main_item {
@@ -1172,6 +1177,9 @@ ul{
     }
     .left_content{
         width: 100%;
+    }
+    .right_content {
+        height: 560px;
     }
 
 }
