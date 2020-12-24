@@ -862,7 +862,7 @@ ul{
     transition: .4s;
 }
 
-.form_conect form .submit
+
 
 .right_content{
     width: 527px;
@@ -1009,9 +1009,7 @@ ul{
 .form_conect form >div +div{
     margin-top: 20px;
 }
-.form_conect form .submit{
 
-}
 /* searching_content */
 
 .searching_content{
